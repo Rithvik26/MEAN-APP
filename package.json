@@ -1,0 +1,31 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "Mean Stack App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rithvik26/MEAN-APP.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack"
+  ],
+  "author": "Rithvik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rithvik26/MEAN-APP/issues"
+  },
+  "homepage": "https://github.com/Rithvik26/MEAN-APP#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "jquery": "^3.5.1",
+    "mongoose": "^5.10.2",
+    "morgan": "^1.10.0"
+  }
+}
